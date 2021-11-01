@@ -1,0 +1,52 @@
+/*LOCAL CSS
+/*This css file serves both the cover letter and CV pages*/
+body{
+	font-size: 120%;
+	background-color: white;
+	text-align: center;
+	color:black;
+	font-family: Tahoma;
+}
+
+ul{
+	list-style: square;
+}
+
+.container{
+	background-color:#A9E4D7;
+}
+
+.navbar-color{
+	background:#63B4B8;
+}
+
+.header{
+	color:#4B3869;
+	text-shadow: 2px 2px #abadba;
+}
+
+
+/*Bootstrap elements*/
+.row{
+	margin-top:100px;
+	justify-content: space-around;
+}
+
+/*Images and Logos */
+.photologo{
+	max-width: 20%;
+	min-width: 150px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.image{
+	max-width: 20%;
+	min-width: 200px;
+	height: auto;
+	margin:50px;
+	box-shadow: 3px 3px #abadba;
+	border: 2px black solid;
+}
